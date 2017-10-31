@@ -1,0 +1,14 @@
+net/ikit/sankoniks/mysimpleproject/web/controller/IndexController.class
+net/ikit/sankoniks/mysimpleproject/exceptions/UserNotFoundException.class
+net/ikit/sankoniks/mysimpleproject/config/CustomMySQLDialect.class
+net/ikit/sankoniks/mysimpleproject/MySimpleProjectApplication.class
+net/ikit/sankoniks/mysimpleproject/web/controller/ProductController.class
+net/ikit/sankoniks/mysimpleproject/exceptions/ProductNotFoundException.class
+net/ikit/sankoniks/mysimpleproject/repository/ProductsRepository.class
+net/ikit/sankoniks/mysimpleproject/model/User.class
+net/ikit/sankoniks/mysimpleproject/web/api/CreateUserRequest.class
+net/ikit/sankoniks/mysimpleproject/repository/UserRepository.class
+net/ikit/sankoniks/mysimpleproject/web/controller/UserController.class
+net/ikit/sankoniks/mysimpleproject/web/rest/UserRestController.class
+net/ikit/sankoniks/mysimpleproject/model/Product.class
+net/ikit/sankoniks/mysimpleproject/config/WebConfig.class

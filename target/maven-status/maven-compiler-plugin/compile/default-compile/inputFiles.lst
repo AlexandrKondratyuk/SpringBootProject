@@ -1,0 +1,14 @@
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/config/CustomMySQLDialect.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/web/api/CreateUserRequest.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/MySimpleProjectApplication.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/config/WebConfig.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/web/rest/UserRestController.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/repository/UserRepository.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/model/User.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/exceptions/UserNotFoundException.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/model/Product.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/exceptions/ProductNotFoundException.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/web/controller/IndexController.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/repository/ProductsRepository.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/web/controller/ProductController.java
+/Users/Sanko/Study/Java/MyProjects/Ikit_Final_Project/training/src/main/java/net/ikit/sankoniks/mysimpleproject/web/controller/UserController.java
